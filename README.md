@@ -12,9 +12,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+![](https://visitcount.itsvg.in/api?id=ashaduzzaman2002&icon=0&color=0)](ashaduzzaman.netlify.app)
+
 
 ###
 
