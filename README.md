@@ -40,8 +40,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+![](https://github-readme-stats.vercel.app/api?username=ashaduzzaman2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashaduzzaman2002&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashaduzzaman2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=ashaduzzaman2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 ###
