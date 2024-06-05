@@ -21,7 +21,7 @@
 ###
 
 # 💫 About Me:
-- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Ethical Hacking<br>- ⚡ In my free time I Love to learn new technologies<br><br>
+- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I Love to learn new technologies<br><br>
 
 
 # 💻 Tech Stack:
